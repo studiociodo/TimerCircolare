@@ -14,4 +14,7 @@ Part Listing:
 1 X Neopixel Ring 24 LED WS2812
 1 X TP4056 charger module
 1 X LiIon Battery
-
+1 X Optocoupler PC812
+1 X N-Channel Mosfet
+1 X 150 Ω Resistor
+1 X 10 KΩ Resistor
