@@ -9,11 +9,11 @@ Here is a schematic and Arduino code, happy deploy!
 
 Part Listing:
 
-1 X Arduino Nano
+1 X WeMos D1 Mini
 
-1 X W5100 Mini Ethernet Module
+1 X Piezoelectric Buzzer
 
-1 X OLED Display 128x64 0.96'' SSD1306 I2C
+1 X Neopixel Ring 24 LED WS2812
 
 1 X TP4056 charger module
 
