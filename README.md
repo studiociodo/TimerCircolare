@@ -10,11 +10,8 @@ Here is a schematic and Arduino code, happy deploy!
 Part Listing:
 
 1 X WeMos D1 Mini
-
 1 X Piezoelectric Buzzer
-
 1 X Neopixel Ring 24 LED WS2812
-
 1 X TP4056 charger module
-
 1 X LiIon Battery
+
